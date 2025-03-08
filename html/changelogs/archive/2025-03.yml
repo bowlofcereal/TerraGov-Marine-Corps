@@ -127,3 +127,15 @@
   - refactor: refactored pass_flags to be managed via traits
   - bugfix: fixed xeno turrets
   - qol: Catwalks have an alpha layer under them now, which will catch clicks
+2025-03-08:
+  Lumipharon:
+  - rscadd: Added more things for NPC's to avoid as hazards
+  - rscadd: simian intelligence increased
+  TiviPlus:
+  - bugfix: fixed strains ignoring max caste limits
+  - bugfix: Strain swap will now show all strains you can swap, including the base
+      caste, excluding your own instead of all strains
+  larndey:
+  - rscadd: Urban Tower Model Tadpole
+  - imageadd: added "_urbantower.png" for dropship picking computer UI.
+  - code_imp: added Urban Tower Tadpole model to respective code files/lists.
